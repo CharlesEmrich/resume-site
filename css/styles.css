@@ -1,0 +1,25 @@
+.education {
+  background-color: beige;
+}
+
+.work-experience {
+  background-color: cornsilk;
+}
+
+.skills {
+  background-color: azure;
+}
+
+.important {
+  font-weight: bolder;
+}
+
+h1, h2 {
+  font-variant: small-caps;
+}
+
+div {
+  min-width: 225px;
+  max-width: 500px;
+  margin: 5px;
+}
